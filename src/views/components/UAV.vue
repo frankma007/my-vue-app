@@ -14,7 +14,7 @@ import { computed, onMounted } from "vue"
 import { useStore } from "vuex"
 const store = useStore()
 // 映射状态到组件
-// const { uavs } = store.state
+// const { uavs } = store.statee4
 
 
 
